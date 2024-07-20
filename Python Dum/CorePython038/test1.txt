@@ -1,0 +1,8 @@
+Hello World
+we learn python
+Gm all 
+we learn python Programming
+Python is easy to learn
+we learn file handling concept
+file handling has diff mode
+append,write,read,create modes are included in file handling
